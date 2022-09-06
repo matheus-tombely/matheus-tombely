@@ -1,6 +1,6 @@
 -👨‍💻 Olá sou o @matheus-tombely </p>
--💻 Sou estudante de TI e estou começando na área (2/4 semestres)</p>
--⚡️ Estou aprendendo C# e SQL </p>
+-💻 Sou estudante de TI e estou começando na área (3/4 semestres)</p>
+-⚡️ Estou aprendendo C#, Java e SQL </p>
 -🌐 Sempre aberto a novos conhecimentos e contatos </p>
 -📫 Pode me contatar por e-mail para matheustombely@gmail.com
 
