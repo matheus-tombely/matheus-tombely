@@ -1,8 +1,14 @@
--👨‍💻 Olá sou o @matheus-tombely </p>
--💻 Sou estudante de TI e estou começando na área (3/4 semestres)</p>
--⚡️ Estou aprendendo C#, Java e SQL </p>
--🌐 Sempre aberto a novos conhecimentos e contatos </p>
--📫 Pode me contatar por e-mail para matheustombely@gmail.com
+## Olá! Me chamo Matheus Tombely
+
+<div>
+  <a href="https://github.com/matheus-tombely">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-tombely&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-tombely&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+##
+
+
 
 <!---
 matheus-tombely/matheus-tombely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
